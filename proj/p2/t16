@@ -1,0 +1,1 @@
+int z = 5; float y = 7.6; while( z == 5 && y != 0.5) {y = y -1;}

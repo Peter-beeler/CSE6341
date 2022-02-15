@@ -1,0 +1,1 @@
+int z; { float z = 8.8; { int z = 6; } } 

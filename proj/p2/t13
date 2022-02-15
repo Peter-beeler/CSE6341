@@ -1,0 +1,1 @@
+int z = 1; { float z = 6.6; { int z = 7; } { float w = z + 1.1; } }
